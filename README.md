@@ -1,3 +1,3 @@
 # Agent-of-change-
 My first Repository on GitHub
-I love :baseball:, :v:, and & :trollface:.
+I love :baseball:, :v:, & :trollface:.
